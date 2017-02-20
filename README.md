@@ -1,2 +1,5 @@
 # gcm-ex04
-Exercício 04 de GCM
+# Exercício 4
+# Gestão de configuração
+ Exercício 4 de GCM
+ Autor: Wesley
